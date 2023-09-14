@@ -1,0 +1,16 @@
+{
+	"name": "omnispectrav2",
+	"version": "2.0.0",
+	"description": "",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "node ."
+	},
+	"keywords": [],
+	"author": "Spectrasonic",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^14.13.0",
+		"dotenv": "^16.3.1"
+	}
+}
